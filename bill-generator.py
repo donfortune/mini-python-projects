@@ -1,5 +1,5 @@
 
-num_of_eaters = input('Please how many people are having dinner? ')
+num_of_guest = input('Please how many people are having dinner? ')
 bill = input ('Your total bill is $150')
 tip_icl_total_bill  = 150 / 5 * 1.12
 rounded_num = round(tip_icl_total_bill, 2)
